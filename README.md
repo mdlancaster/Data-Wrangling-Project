@@ -9,4 +9,4 @@ There are two folders in this repository: Data and Code. As the name suggests, t
 <b>  File Table of Contents: </b>
 | Folder | File | Description | 
 | ------ | ---- | ----------- |
-|        |      |             |
+|  Code  | nasdaq_scraping.ipynb   |             |
