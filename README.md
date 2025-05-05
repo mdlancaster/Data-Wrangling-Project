@@ -10,7 +10,7 @@ There are two folders in this repository: Data and Code. As the name suggests, t
 | Folder | File | Description | 
 | ------ | ---- | ----------- |
 |  Code  | nasdaq_scraping.ipynb | Code used to scrape stock information from Nasdaq's Stock Screener |
-| Data | nasdaq_final.csv | CSV of the 6,563 scraped nasdaq stocks and their information (last sale, market capitalization, etc.) |
+| Data | nasdaq_final.csv | CSV of the 6,561 scraped nasdaq stocks and their information (last sale, market capitalization, etc.) |
 | Code | fin_stmts.ipynb | Code used to download financial statement data (using yfinance library) for a random sample of nasdaq stocks | 
 | Data | fin_stmts.csv | CSV of the randomly sampled stocks and their key financial indicators (revenue, debt, net income, etc.) |
 | Code | final_data.ipynb | Code used to integrate and clean nasdaq_final.csv and fin_stmts.csv |
