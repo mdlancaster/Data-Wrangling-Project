@@ -1,4 +1,4 @@
-<b> Preliminary Data Dictionary (final_data.csv): </b>
+<b> Data Dictionary (data_final.csv): </b>
 
 | Feature | Description | 
 | ------- | ----------- |
@@ -24,3 +24,6 @@
 | Net Income | Profit after deducting all expenses |
 | Capital Expenditures | Amount spent on long-term, tangible assets | 
 | Free Cash Flow | Cash flow generated after deducting cash flows that maintain operations and capital assets | 
+| 1 Month Stock Price | Company stock price on 4/3/25 | 
+| 6 Month Stock Price | Company stock price on 11/3/24 |
+| 1 Year Stock Price | Company stock price on 5/3/24 |
