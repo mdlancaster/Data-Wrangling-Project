@@ -7,30 +7,30 @@
 
 <b> Data Dictionary (data_final.csv): </b>
 
-| Feature | Description | 
-| ------- | ----------- |
-| Ticker | Ticker symbol of the company's stock |
-| Name | Company name |
-| Last Sale | Last sale price of company's stock (as of 5/3/25) |
-| Net Change | Net change in sale price from 5/2/25 to 5/3/25 |
-| Percent Change | Percent change in sale price from 5/2/25 to 5/3/25 |
-| Market Cap | Market capitalization (current share price * shares outstanding |
-| Shares Issued | Number of shares issued |
-| Total Assets | Current and Non-Current Assets | 
-| Net PPE | Net Property, Plant, and Equipment (book value of long-term, tangible assets after deducting depreciation) |
-| Accounts Receivable | Amount of money the company is owed for goods/services sold on credit |
-| Cash and Cash Equivalents | Amount of cash on hand and highly-liquid investments |
-| Total Debt | Amount of short- and long-term debts | 
-| Accounts Payable | Amount of money due to suppliers/vendors for goods/services purchased on credit |
-| Stockholders Equity | Residual value of assets after deducting liabilities |
-| Retained Earnings | Amount of profit reinvested into the company |
-| Working Capital | Difference between current assets and current liabilities |
-| Total Revenue | Amount of income generated from selling products/services |
-| Operating Income | Income generated after deducting operating expenses (a.k.a., EBIT) |
-| EBITDA | Earnings before interest, taxes, depreciation, and amortization | 
-| Net Income | Profit after deducting all expenses |
-| Capital Expenditures | Amount spent on long-term, tangible assets | 
-| Free Cash Flow | Cash flow generated after deducting cash flows that maintain operations and capital assets | 
-| 1 Month Stock Price | Company stock price on 4/3/25 | 
-| 6 Month Stock Price | Company stock price on 11/3/24 |
-| 1 Year Stock Price | Company stock price on 5/3/24 |
+| # | Feature | Description | 
+| --| ------- | ----------- |
+|1. | Ticker | Ticker symbol of the company's stock |
+|2. | Name | Company name |
+|3. | Last Sale | Last sale price of company's stock (as of 5/3/25) |
+|4. | Net Change | Net change in sale price from 5/2/25 to 5/3/25 |
+|5. | Percent Change | Percent change in sale price from 5/2/25 to 5/3/25 |
+|6. | Market Cap | Market capitalization (current share price * shares outstanding |
+|7. | Shares Issued | Number of shares issued |
+|8. | Total Assets | Current and Non-Current Assets | 
+|9. | Net PPE | Net Property, Plant, and Equipment (book value of long-term, tangible assets after deducting depreciation) |
+|10. | Accounts Receivable | Amount of money the company is owed for goods/services sold on credit |
+|11. | Cash and Cash Equivalents | Amount of cash on hand and highly-liquid investments |
+|12. | Total Debt | Amount of short- and long-term debts | 
+|13. | Accounts Payable | Amount of money due to suppliers/vendors for goods/services purchased on credit |
+|14. | Stockholders Equity | Residual value of assets after deducting liabilities |
+|15. | Retained Earnings | Amount of profit reinvested into the company |
+|16. | Working Capital | Difference between current assets and current liabilities |
+|17. | Total Revenue | Amount of income generated from selling products/services |
+|18. | Operating Income | Income generated after deducting operating expenses (a.k.a., EBIT) |
+|19. | EBITDA | Earnings before interest, taxes, depreciation, and amortization | 
+|20. | Net Income | Profit after deducting all expenses |
+|21. | Capital Expenditures | Amount spent on long-term, tangible assets | 
+|22. | Free Cash Flow | Cash flow generated after deducting cash flows that maintain operations and capital assets | 
+|23. | 1 Month Stock Price | Company stock price on 4/3/25 | 
+|24. | 6 Month Stock Price | Company stock price on 11/3/24 |
+|25. | 1 Year Stock Price | Company stock price on 5/3/24 |
