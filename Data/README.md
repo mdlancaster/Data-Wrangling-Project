@@ -1,6 +1,8 @@
 <b> File Descriptions: </b> <br>
 <i> nasdaq_final.csv </i>: This dataset includes scraped data for all 6,561 Nasdaq-listed companies. The features are outlined in Features 1-6 of the data dictionary below and the process used to scrape the data is outlined in the <i>nasdaq_scraping.ipynb</i> notebook within the Code folder. <br>
+
 <i> yfinance_data.csv </i>: This dataset features select financial metrics and historical stock prices for a random sample of companies from <i>nasdaq_final.csv</i>. The financial metrics are detailed in Features 7-22 of the data dictionary, and the historical stock prices are included as Features 23-25. The code used to download and merge the financial metrics and historical stock prices from yfinance is presented in the <i>yfinance_data.ipynb</i> notebook in the Code folder. <br>
+
 <i> data_final </i>: This is our final dataset which merged the <i>nasdaq_final.csv</i> and <i>yfinance.csv</i> datasets. The code used to do so as well as conduct some additional data cleaning is shown in the <i>data_final.ipynb</i> notebook under the Code folder. The following data dictionary details all of the features in this dataset. 
 
 <b> Data Dictionary (data_final.csv): </b>
