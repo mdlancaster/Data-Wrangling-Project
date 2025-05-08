@@ -1,11 +1,15 @@
 # Data Wrangling Project 
 
 <b> Project Background: </b> 
+
 The motivation for this data wrangling project stems from a desire to better understand the relationship between a company's financial position and its market position. By compiling and analyzing key financial metrics--such as revenue, net income, and total debt--alongside market characertistics like current stock price, historical stock prices, and market capitalization, our team sought to make sense of how the financial story told by a company's 10-Q was reflected in the market. We aimed to produce insights that could benefit both a company's managemenet and the everyday investor. Understanding how financial metrics relate to stock price can help management in their cost-cutting initiatives and the framing of their earnings announcements, and it can help investors in their stock selection, asset allocation, and risk management practices. To guide our analyses, our team focused on answering the following research questions: <br>
 
 <i>Question 1:</i>
+
 <i>Question 2:</i> How does the average stock price vary for companies grouped by their profitability?
+
 <i>Question 3:</i>
+
 <i>Question 4:</i>
 
 <b> Folder/File Structure: </b>
