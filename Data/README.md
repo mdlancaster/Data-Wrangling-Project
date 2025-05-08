@@ -1,5 +1,7 @@
 <b> File Descriptions: </b>
-
+<i> nasdaq_final.csv </i>: This dataset includes scraped data for all 6,561 Nasdaq-listed companies. The features are outlined in Fields 1-6 of the data dictionary below and the process used to scrape the data is outlined in the <i>nasdaq_scraping.ipynb</i> notebook within the Code folder. 
+<i> yfinance_data.csv </i>:
+<i> data_final </i>:
 
 <b> Data Dictionary (data_final.csv): </b>
 
