@@ -1,3 +1,6 @@
+<b> File Descriptions: </b>
+
+
 <b> Data Dictionary (data_final.csv): </b>
 
 | Feature | Description | 
@@ -10,7 +13,7 @@
 | Market Cap | Market capitalization (current share price * shares outstanding |
 | Shares Issued | Number of shares issued |
 | Total Assets | Current and Non-Current Assets | 
-| Net PPE | Net Property, Plant Equipment (book value of long-term, tangible assets after deducting depreciation) |
+| Net PPE | Net Property, Plant, and Equipment (book value of long-term, tangible assets after deducting depreciation) |
 | Accounts Receivable | Amount of money the company is owed for goods/services sold on credit |
 | Cash and Cash Equivalents | Amount of cash on hand and highly-liquid investments |
 | Total Debt | Amount of short- and long-term debts | 
