@@ -6,4 +6,4 @@
 
 <i>data_final.ipynb:</i> This code merges the <i>nasdaq_final.csv</i> and <i>yfinance_data.csv</i> datasets and conducts some final data cleaning to produce our final dataset, <i> data_final.csv </i>. 
 
-<i>project_analysis.ipynb:</i> This code contains all of the methods and results of our analysis which we used to answer our guiding research questions. 
+<i>project_analysis.ipynb:</i> This code contains the methods and results of our analysis which we used to answer our guiding research questions. 
