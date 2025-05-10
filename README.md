@@ -8,9 +8,11 @@ The motivation for this data wrangling project stems from a desire to better und
 
 <i>Question 2:</i> How does the average stock price differ among companies categorized by profitability levels?
 
-<i>Question 3:</i> To what extent can Total Assets, Total Debt, Net Income, Stockholders' Equity, and Market Capitalization predict the direction of stock price changes?
+<i>Question 3:</i> Is there a statistically significant difference between companies' average historical stock prices (one-year vs. one-month and six-month vs. one-month)?
 
-<i>Question 4:</i> Can key financial indicators (Net Income, Stockholders' Equity, Market Capitalization, Total Debt, Total Assets, and Cash and Cash Equivalents) be used to predict whether a company has more Accounts Payable than Accounts Receiveable?
+<i>Question 4:</i> To what extent can Total Assets, Total Debt, Net Income, Stockholders' Equity, and Market Capitalization predict the direction of stock price changes?
+
+<i>Question 5:</i> Can key financial indicators (Net Income, Stockholders' Equity, Market Capitalization, Total Debt, Total Assets, and Cash and Cash Equivalents) be used to predict whether a company has more Accounts Payable than Accounts Receiveable?
 
 <b> Folder/File Structure: </b>
 There are two folders in this repository: Data and Code. As the name suggests, the Data folder houses all of the data used in our analysis including the dataset scraped from [Nasdaq's Stock Screener](https://www.nasdaq.com/market-activity/stocks/screener?page=1&rows_per_page=25), the dataset of company financial metrics and stock price history, and our final, cleaned dataset. The Code folder stores the code used to produce these datasets as well as answer our research questions. 
